@@ -1,0 +1,7 @@
+#
+# Test prod inventory file
+# 
+
+[prodgroup1]
+prodhost1
+prodhost2

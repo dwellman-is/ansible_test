@@ -1,0 +1,5 @@
+---
+
+- name: Debug role1
+  debug:
+    msg: "Role 1 task 1"

@@ -1,0 +1,7 @@
+#
+# Test dev inventory file
+# 
+
+[devgroup1]
+devhost1
+devhost2
